@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myStickysidebar\n"
+"POT-Creation-Date: 2019-04-15 16:33+0530\n"
+"PO-Revision-Date: 2019-04-15 16:33+0530\n"
+"Last-Translator: damir <jahmirda@gmail.com>\n"
+"Language-Team: TFN <jahmirda@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../mystickysidebar.php:82
+msgid "WP Sticky Sidebar Settings"
+msgstr ""
+
+#: ../mystickysidebar.php:83
+msgid "Add floating sticky sidebar to any WordPress theme."
+msgstr ""
+
+#: ../mystickysidebar.php:89
+msgid "Sticky Class"
+msgstr ""
+
+#: ../mystickysidebar.php:92
+msgid "Sidebar element CSS class or id"
+msgstr ""
+
+#: ../mystickysidebar.php:95
+msgid ""
+"Container element class or id. It must be element that contains both sidebar "
+"and content. If left blank script will try to guess. Usually it's #main or "
+"#main-content"
+msgstr ""
+
+#: ../mystickysidebar.php:100
+msgid "Devices"
+msgstr ""
+
+#: ../mystickysidebar.php:101 ../mystickysidebar.php:175
+#: ../mystickysidebar.php:188
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../mystickysidebar.php:106
+msgid "Desktop"
+msgstr ""
+
+#: ../mystickysidebar.php:112
+msgid "Mobile"
+msgstr ""
+
+#: ../mystickysidebar.php:128
+msgid "Additional top margin"
+msgstr ""
+
+#: ../mystickysidebar.php:137
+msgid "Disable in small screens"
+msgstr ""
+
+#: ../mystickysidebar.php:138
+msgid "Disable if screen width is smaller than"
+msgstr ""
+
+#: ../mystickysidebar.php:150
+msgid "Additional bottom margin"
+msgstr ""
+
+#: ../mystickysidebar.php:159
+msgid "Update sidebar height"
+msgstr ""
+
+#: ../mystickysidebar.php:160
+msgid ""
+"Troubleshooting option, try this if your sidebar loses its background color.."
+msgstr ""
+
+#: ../mystickysidebar.php:179
+msgid "CSS style"
+msgstr ""
+
+#: ../mystickysidebar.php:180
+msgid "Add/edit CSS style. Leave it blank for default style."
+msgstr ""
+
+#: ../mystickysidebar.php:187
+msgid "Disable at"
+msgstr ""
+
+#: ../mystickysidebar.php:194
+msgid "Front Page"
+msgstr ""
+
+#: ../mystickysidebar.php:200
+msgid "Blog Page"
+msgstr ""
+
+#: ../mystickysidebar.php:206
+msgid "Pages"
+msgstr ""
+
+#: ../mystickysidebar.php:212
+msgid "Tags"
+msgstr ""
+
+#: ../mystickysidebar.php:218
+msgid "Categories"
+msgstr ""
+
+#: ../mystickysidebar.php:224
+msgid "Posts"
+msgstr ""
+
+#: ../mystickysidebar.php:230
+msgid "Archives"
+msgstr ""
+
+#: ../mystickysidebar.php:236
+msgid "Search"
+msgstr ""
+
+#: ../mystickysidebar.php:245
+msgid "<span class=\"\">Except for this page: Shopping Cart, Checkout: </span>"
+msgstr ""
+
+#: ../mystickysidebar.php:252
+msgid ""
+"<span class=\"description\">Comma separated list of pages to enable. It "
+"should be page name, id or slug. Example: about-us, 1134, Contact Us. Leave "
+"blank if you realy want to disable sticky sidebar for all pages.</span>"
+msgstr ""
+
+#: ../mystickysidebar.php:260
+msgid "<span class=\"\">Except for this posts: myStickymenu Demo: </span>"
+msgstr ""
+
+#: ../mystickysidebar.php:266
+msgid ""
+"<span class=\"description\">Comma separated list of posts to enable. It "
+"should be post name, id or slug. Example: about-us, 1134, Contact Us. Leave "
+"blank if you realy want to disable sticky sidebar for all posts.</span>"
+msgstr ""
+
+#: ../mystickysidebar.php:275
+msgid "Save"
+msgstr ""
+
+#: ../mystickysidebar.php:279
+msgid "Reset"
+msgstr ""
+
+#: ../mystickysidebar.php:282
+msgid "Leave a review"
+msgstr ""
+
+#~ msgid "mymessage2"
+#~ msgstr "Bye"
