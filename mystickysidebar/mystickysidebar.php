@@ -205,11 +205,11 @@ class MyStickysidebarBackend
                                     <div class="rpt_feature rpt_feature_0-4"><a href="javascript:;" class="rpt_tooltip"><span class="intool"><b></b>Exclude pages you don't want to have sticky sidebar</span>Page targeting<span class="rpt_tooltip_plus" > +</span></a></div>
                                     <div class="rpt_feature rpt_feature_0-9">
                                         <select data-key="0" class="multiple-options">
-                                            <option data-header="Renewals for 25% off" data-price="19" value="<?php echo esc_url($pro_url."1") ?>">
+                                            <option data-header="Per year. Renewals for 25% off" data-price="19" value="<?php echo esc_url($pro_url."1") ?>">
                                                 <?php esc_html_e("Updates & support for 1 year") ?>
                                             </option>
-                                            <option data-header="For 2 years" data-price="29" value="<?php echo esc_url($pro_url."13") ?>">
-                                                <?php esc_html_e("Updates & support for 2 years") ?>
+                                            <option data-header="Billed Yearly after 2 years" data-price="29" value="<?php echo esc_url($pro_url."13") ?>">
+                                                <?php esc_html_e("Updates & support 2 years") ?>
                                             </option>
                                             <option data-header="For lifetime" data-price="59" value="<?php echo esc_url($pro_url."10") ?>">
                                                 <?php esc_html_e("Updates & support for lifetime") ?>
@@ -236,10 +236,10 @@ class MyStickysidebarBackend
                                 <div class="rpt_feature rpt_feature_0-4"><a href="javascript:;" class="rpt_tooltip"><span class="intool"><b></b>Exclude pages you don't want to have sticky sidebar</span>Page targeting<span class="rpt_tooltip_plus" > +</span></a></div>
                                 <div class="rpt_feature rpt_feature_0-9">
                                     <select data-key="0" class="multiple-options">
-                                        <option data-header="Renewals for 25% off" data-price="39" value="<?php echo esc_url($pro_url."2") ?>">
+                                        <option data-header="Per year. Renewals for 25% off" data-price="39" value="<?php echo esc_url($pro_url."2") ?>">
                                             <?php esc_html_e("Updates & support for 1 year") ?>
                                         </option>
-                                        <option data-header="For 2 years" data-price="59" value="<?php echo esc_url($pro_url."14") ?>">
+                                        <option data-header="Billed Yearly after 2 years" data-price="59" value="<?php echo esc_url($pro_url."14") ?>">
                                             <?php esc_html_e("Updates & support for 2 years") ?>
                                         </option>
                                         <option data-header="For lifetime" data-price="99" value="<?php echo esc_url($pro_url."11") ?>">
@@ -266,10 +266,10 @@ class MyStickysidebarBackend
                                 <div class="rpt_feature rpt_feature_0-4"><a href="javascript:;" class="rpt_tooltip"><span class="intool"><b></b>Exclude pages you don't want to have sticky sidebar</span>Page targeting<span class="rpt_tooltip_plus" > +</span></a></div>
                                 <div class="rpt_feature rpt_feature_0-9">
                                     <select data-key="0" class="multiple-options">
-                                        <option data-header="Renewals for 25% off" data-price="79" value="<?php echo esc_url($pro_url."3") ?>">
+                                        <option data-header="Per year. Renewals for 25% off" data-price="79" value="<?php echo esc_url($pro_url."3") ?>">
                                             <?php esc_html_e("Updates & support for 1 year") ?>
                                         </option>
-                                        <option data-header="For 2 years" data-price="125" value="<?php echo esc_url($pro_url."15") ?>">
+                                        <option data-header="Billed Yearly after 2 years" data-price="125" value="<?php echo esc_url($pro_url."15") ?>">
                                             <?php esc_html_e("Updates & support for 2 years") ?>
                                         </option>
                                         <option data-header="For lifetime" data-price="199" value="<?php echo esc_url($pro_url."12") ?>">
