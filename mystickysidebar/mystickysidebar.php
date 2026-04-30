@@ -814,7 +814,6 @@ class MyStickysidebarFrontend
 if( is_admin() ) {
 	new MyStickysidebarBackend();
 	include_once "class-review-box.php";
-	include_once "class-affiliate.php";
 } else {
 	new MyStickysidebarFrontend();
 }
