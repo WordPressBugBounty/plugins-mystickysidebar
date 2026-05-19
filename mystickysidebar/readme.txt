@@ -3,7 +3,7 @@ Contributors: tomeraharon, galdub, premio
 Donate link: http://wordpress.transformnews.com/contact
 Tags: sticky sidebar, fixed sidebar, floating sidebar, sidebar, sticky
 Requires at least: 3.5.1
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 1.4.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
